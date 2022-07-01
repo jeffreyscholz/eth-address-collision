@@ -53,5 +53,6 @@ nonce = 0
 print(' '* 51 + decode_addr(mk_contract_address(sender, nonce)))
 print("This exists already https://etherscan.io/address/0x5fbdb2315678afecb367f032d93f642f64180aa3")
 
+# this appears to be an EOA and NOT a smart contract.
 # before you get any crazy ideas, you can't steal the funds because the nonce for that account
 # is not zero anymore. But still, the chances of this happening are stupidly slim...
