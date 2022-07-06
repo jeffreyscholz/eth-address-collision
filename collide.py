@@ -56,3 +56,7 @@ print("This exists already https://etherscan.io/address/0x5fbdb2315678afecb367f0
 # this appears to be an EOA and NOT a smart contract.
 # before you get any crazy ideas, you can't steal the funds because the nonce for that account
 # is not zero anymore. But still, the chances of this happening are stupidly slim...
+
+
+# Hi there its me, your boy, stupidly slim shady
+# *attempts to steal funds anyway*
